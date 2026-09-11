@@ -1,26 +1,14 @@
-# Hi, I'm Ali Abbas Kazmi aka a2kazmi👋
+# Hi, I'm Ali Abbas Kazmi aka a2kazmi 👋
 
 ### Aspiring Full-Stack Developer | MERN Stack
 
-I'm a **IT Student** currently building my skills in **full-stack web development with the MERN stack**.
+I'm an **IT student** building my skills in **full-stack web development** with a focus on the MERN stack.
 
-I'm at the beginning of my development journey, but I'm serious about becoming a strong developer. I believe real progress comes from **consistency, repetition, building projects, and applying what I learn to real-world problems**.
+I'm at the beginning of my development journey, but I'm serious about becoming a strong developer. I believe real growth comes from **consistency, repetition, building projects, and applying what I learn to real-world problems.**
 
 > **Learn → Build → Apply → Improve**
 
-I'm currently focused on learning **React.js** and expanding my knowledge of full-stack development. In the future, I also want to integrate **AI and LLMs into web applications** to build more intelligent and useful products.
-
-
-## 🚀 What I'm Learning
-
-* Full-Stack Development
-* React.js
-* MERN Stack
-* REST APIs
-* Backend Development
-* Database Development
-* AI & LLM Integration
-
+I'm currently exploring **React.js** and working toward full-stack development. I'm also deeply interested in **AI and LLM integration** and how they can be used to build more intelligent and useful web applications.
 
 ## 💻 Technologies
 
@@ -51,58 +39,44 @@ I'm currently focused on learning **React.js** and expanding my knowledge of ful
 
 ### Exploring
 
-<p>
-  🤖 AI &nbsp; • &nbsp; LLM Integration &nbsp; • &nbsp; REST APIs
-</p>
+**Node.js • Express.js • MongoDB • REST APIs • AI & LLM Integration**
 
+## 🚀 Projects
 
+I learn best by turning concepts into working projects.
 
-## 🎯 My Development Journey
+* 🛒 **Amazon Landing Page** — Frontend project built to practice HTML and CSS.
+* ❌ **Tic-Tac-Toe** — JavaScript project focused on programming logic and DOM manipulation.
+* 💱 **Currency Converter** — JavaScript project for practicing practical application development.
+* 🌤️ **Weather App** —  API-based project for working with external data.
 
-I'm not trying to become an expert overnight.
+More projects will follow as I continue learning and building.
 
-I'm focused on becoming better **one project, one concept, and one problem at a time**.
+## 🎯 What I'm Working Toward
 
-My current goal is to become a capable **MERN Stack Full-Stack Developer**, build practical applications, and eventually combine web development with **AI/LLM technologies**.
+My goal is to become a capable **full-stack developer** who can build practical applications from frontend to backend and eventually integrate **AI/LLM technologies** into them.
 
 I'm particularly interested in:
 
-* Problem Solving
-* Web Development
-* Software Development
-* Technology
-* AI & LLMs
-
+**Problem Solving • Web Development • Technology • AI • Continuous Learning**
 
 ## 📚 Beyond Code
 
-Outside of technology, I'm interested in **philosophy, psychology, and literature**.
-
-I believe understanding how people think and how ideas work can also make us better problem solvers and developers.
-
+I'm interested in **philosophy, psychology, and literature**. I enjoy exploring ideas that improve the way I think, learn, and solve problems.
 
 ## 🤝 Open to Opportunities
 
-I'm interested in opportunities where I can **learn, contribute, and grow**, including:
-
-* Freelancing
-* Remote work
-* Internships
-* Collaboration
-* Open-source projects
-
-I'm always interested in connecting with people who are building interesting things and learning along the way.
-
+I'm open to **freelancing, remote opportunities, internships, and collaborations** where I can contribute, learn, and grow.
 
 ## 📫 Connect With Me
-* **GitHub:** [a2kazmi](https://github.com/in/a2kazmi)
-* **LinkedIn:** [a2kazmi](https://linkedin.com/a2kazmi)
-* **Email:** contact.a2kazmi@gmail.com
 
-
-### 💡 A principle I follow
+* **GitHub:** `@a2kazmi`
+* **LinkedIn:** `@a2kazmi`
+* **Email:** `contact.a2kazmi@gmail.com`
 
 > **Consistency beats intensity. Build something, learn from it, and keep going.**
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting! 🚀
+
+
 
