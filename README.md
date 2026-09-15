@@ -1,4 +1,4 @@
-# Hi, I'm Ali Abbas Kazmi aka a2kazmi 👋
+# Hi, I'm Ali Abbas Kazmi aka `a2kazmi` 👋
 
 ### Aspiring Full-Stack Developer | MERN Stack
 
@@ -41,16 +41,6 @@ I'm currently exploring **React.js** and working toward full-stack development. 
 
 **Node.js • Express.js • MongoDB • REST APIs • AI & LLM Integration**
 
-## 🚀 Projects
-
-I learn best by turning concepts into working projects.
-
-* 🛒 **Amazon Landing Page** — Frontend project built to practice HTML and CSS.
-* ❌ **Tic-Tac-Toe** — JavaScript project focused on programming logic and DOM manipulation.
-* 💱 **Currency Converter** — JavaScript project for practicing practical application development.
-* 🌤️ **Weather App** —  API-based project for working with external data.
-
-More projects will follow as I continue learning and building.
 
 ## 🎯 What I'm Working Toward
 
@@ -70,9 +60,8 @@ I'm open to **freelancing, remote opportunities, internships, and collaborations
 
 ## 📫 Connect With Me
 
-* **GitHub:** `@a2kazmi`
-* **LinkedIn:** `@a2kazmi`
-* **Email:** `contact.a2kazmi@gmail.com`
+* **LinkedIn:** [a2kazmi](https://linkedin.com/in/a2kazmi)
+* **Email:** [Summon me via email](mailto:contact.a2kazmi@gmail.com)
 
 > **Consistency beats intensity. Build something, learn from it, and keep going.**
 
